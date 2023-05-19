@@ -23,3 +23,7 @@
 
 [<img src="https://img.icons8.com/?size=2x&id=64154&format=png" height="80em" align="center" alt="Follow luka on LinkedIn" title="Follow lukapain on LinkedIn"/>](https://www.linkedin.com/in/luka-shinjikashvili-543384264/)
 [<img src="https://img.icons8.com/?size=2x&id=hFoVFpm6gl9A&format=png" height="60em" align="center" alt="Follow Raymo111 on Instagram" title="Follow lukapain on Instagram"/>](https://www.instagram.com/shinjikashvili_4/)
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
